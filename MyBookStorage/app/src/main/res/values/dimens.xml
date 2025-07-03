@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Kích thước cho Navigation Drawer Header -->
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+
+    <!-- Kích thước lề chung cho các hoạt động -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Các kích thước khác có thể bạn sẽ cần sau này -->
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DS</string>
+    <string name="default_web_client_id">488746690356-vf843gd2biv7hnev6avic6mtococ6lib.apps.googleusercontent.com</string>
+
+    <string name="navigation_drawer_open">Mở menu điều hướng</string>
+    <string name="navigation_drawer_close">Đóng menu điều hướng</string>
+    <string name="nav_header_desc">Header điều hướng</string>
+
+    <string name="welcome_message">Chào mừng bạn đến với thư viện sách cá nhân!</string>
+    <string name="no_books_message">Chưa có sách nào trong thư viện của bạn. Nhấn nút \'+\' để thêm sách!</string>
+    <string name="upload_book">Tải sách lên</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488746690356",
+    "firebase_url": "https://androidbookshop-73f71-default-rtdb.firebaseio.com",
+    "project_id": "androidbookshop-73f71",
+    "storage_bucket": "androidbookshop-73f71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488746690356:android:b77231dbc162c4c55de761",
+        "android_client_info": {
+          "package_name": "vn.edu.tlu.mybookstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488746690356-heshaobfkju8o74irgmil1e4duei51m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.tlu.mybookstorage",
+            "certificate_hash": "85ef222f3a60e8f864b503c3250b5d3ae34502d3"
+          }
+        },
+        {
+          "client_id": "488746690356-vf843gd2biv7hnev6avic6mtococ6lib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAypCJ0iwMkRXB7Zqwp7fSnl3A2yGAfqQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488746690356-vf843gd2biv7hnev6avic6mtococ6lib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
